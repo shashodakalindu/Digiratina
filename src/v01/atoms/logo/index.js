@@ -12,6 +12,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 function Logo() {
+  
   const classes = useStyles();
 
   return (
